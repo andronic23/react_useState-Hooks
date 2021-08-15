@@ -17,6 +17,7 @@ const Cart = (props ) =>{
             console.log(count)
         }}>+</button>
         </>
+        
     )
 }
 
